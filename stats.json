@@ -1,26 +1,28 @@
 {
-  "totalSolved": 3,
+  "totalSolved": 4,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-08-01",
-  "todayCount": 3,
+  "todayCount": 4,
   "difficultyCounts": {
     "easy": 2,
-    "medium": 1,
+    "medium": 2,
     "hard": 0,
     "basic": 0
   },
   "syncedProblems": {
     "LeetCode_Binary_Subarrays_With_Sum": true,
     "LeetCode_Majority_Element": true,
-    "GeeksForGeeks_Palindrome_String": true
+    "GeeksForGeeks_Palindrome_String": true,
+    "GeeksForGeeks_Longest_Subarray_of_Evens_and_Odds": true
   },
   "activityHistory": {
-    "2026-08-01": 3
+    "2026-08-01": 4
   },
   "todayProblems": [
     "Binary Subarrays With Sum",
     "Majority Element",
-    "Palindrome String"
+    "Palindrome String",
+    "Longest Subarray of Evens and Odds"
   ]
 }
