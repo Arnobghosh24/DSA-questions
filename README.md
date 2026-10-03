@@ -4,3 +4,4 @@
 | 2 | [Majority Element](./LeetCode/Easy/Majority%20Element) | [LeetCode](https://leetcode.com/problems/majority-element/) | Easy | 01 Aug 2026 | 06:29 pm |
 | 3 | [Palindrome String](./GeeksForGeeks/Easy/Palindrome%20String) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/palindrome-string0817/1) | Easy | 01 Aug 2026 | 06:30 pm |
 | 4 | [Longest Subarray of Evens and Odds](./GeeksForGeeks/Medium/Longest%20Subarray%20of%20Evens%20and%20Odds) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/longest-subarray-of-evens-and-odds/1) | Medium | 01 Aug 2026 | 06:33 pm |
+| 5 | [Digital Root](./GeeksForGeeks/Easy/Digital%20Root) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/digital-root/1) | Easy | 04 Oct 2026 | 01:29 am |
