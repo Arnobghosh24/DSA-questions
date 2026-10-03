@@ -1,27 +1,29 @@
 {
-  "totalSolved": 5,
+  "totalSolved": 6,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-10-04",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 3,
     "medium": 2,
     "hard": 0,
-    "basic": 0
+    "basic": 1
   },
   "syncedProblems": {
     "LeetCode_Binary_Subarrays_With_Sum": true,
     "LeetCode_Majority_Element": true,
     "GeeksForGeeks_Palindrome_String": true,
     "GeeksForGeeks_Longest_Subarray_of_Evens_and_Odds": true,
-    "GeeksForGeeks_Digital_Root": true
+    "GeeksForGeeks_Digital_Root": true,
+    "GeeksForGeeks_Power_Using_Recursion": true
   },
   "activityHistory": {
     "2026-08-01": 4,
-    "2026-10-04": 1
+    "2026-10-04": 2
   },
   "todayProblems": [
-    "Digital Root"
+    "Digital Root",
+    "Power Using Recursion"
   ]
 }
