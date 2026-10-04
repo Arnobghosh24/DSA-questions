@@ -7,3 +7,4 @@
 | 5 | [Digital Root](./GeeksForGeeks/Easy/Digital%20Root) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/digital-root/1) | Easy | 04 Oct 2026 | 01:29 am |
 | 6 | [Power Using Recursion](./GeeksForGeeks/Basic/Power%20Using%20Recursion) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/power-using-recursion/1) | Basic | 04 Oct 2026 | 01:32 am |
 | 7 | [GCD of Two](./GeeksForGeeks/Basic/GCD%20of%20Two) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/gcd-of-two-numbers3459/1) | Basic | 04 Oct 2026 | 01:44 am |
+| 8 | [4A - Watermelon](./Codeforces/basic/4A%20-%20Watermelon) | [Codeforces](https://codeforces.com/problemset/problem/4/A) | basic | 04 Oct 2026 | 08:13 pm |
