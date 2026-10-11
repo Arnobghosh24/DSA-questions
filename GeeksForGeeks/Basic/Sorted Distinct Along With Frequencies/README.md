@@ -1,0 +1,17 @@
+# Sorted Distinct Along With Frequencies
+
+## Difficulty: Basic
+
+## Platform: GeeksForGeeks
+
+## Problem Link
+[View Problem](https://www.geeksforgeeks.org/problems/sorted-frequency/1)
+
+## Solved On
+11 Oct 2026 at 04:26 pm
+
+<h2><a href="https://www.geeksforgeeks.org/problems/sorted-frequency/1">Sorted Distinct Along With Frequencies</a></h2><h3>Difficulty Level: Basic</h3><hr><p><span style="font-size: 18px;">You are given an integer array <strong>arr[]</strong>. You need to return the distinct elements of array in&nbsp;</span><span style="font-size: 18px;">increasing</span><span style="font-size: 18px;"> order along with their frequencies.</span></p><p><span style="font-size: 18px;"><strong>Examples:</strong></span></p><pre><span style="font-size: 18px;"><strong>Input</strong>: arr[] = [3, 3, 2, 2, 1, 4]
+<strong>Output: </strong>[[1 1], [2 2], [3 2], [4 1]]</span>
+<span style="font-size: 18px;"><strong>Explanation: </strong>3 appears 2 times. 2 appears 2 times. 1 appears 1 time, and </span><span style="font-size: 18px;">4 appears 1 time. So in sorted order we write elements and </span><span style="font-size: 18px;">their frequencies.</span></pre><pre><span style="font-size: 18px;"><strong>Input</strong>: arr[] = [30, 20, 10]
+<strong>Output: </strong>[[10 1], [20 1], [30 1]]</span>
+<span style="font-size: 18px;"><strong>Explanation: </strong>All elements appear once only.</span></pre>
