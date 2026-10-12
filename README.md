@@ -10,3 +10,4 @@
 | 8 | [4A - Watermelon](./Codeforces/basic/4A%20-%20Watermelon) | [Codeforces](https://codeforces.com/problemset/problem/4/A) | basic | 04 Oct 2026 | 08:13 pm |
 | 9 | [Second Largest](./GeeksForGeeks/Easy/Second%20Largest) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/second-largest3735/1) | Easy | 10 Oct 2026 | 05:18 pm |
 | 10 | [Sorted Distinct Along With Frequencies](./GeeksForGeeks/Basic/Sorted%20Distinct%20Along%20With%20Frequencies) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/sorted-frequency/1) | Basic | 11 Oct 2026 | 04:26 pm |
+| 11 | [Maximum Difference Between Adjacent Elements in a Circular Array](./LeetCode/Easy/Maximum%20Difference%20Between%20Adjacent%20Elements%20in%20a%20Circular%20Array) | [LeetCode](https://leetcode.com/problems/maximum-difference-between-adjacent-elements-in-a-circular-array/) | Easy | 12 Oct 2026 | 08:16 pm |
