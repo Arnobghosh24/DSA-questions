@@ -17,3 +17,4 @@
 | 15 | [Max Circular Subarray Sum](./GeeksForGeeks/Hard/Max%20Circular%20Subarray%20Sum) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/max-circular-subarray-sum-1587115620/1) | Hard | 04 Nov 2026 | 05:53 pm |
 | 16 | [Maximum Sum Circular Subarray](./LeetCode/Medium/Maximum%20Sum%20Circular%20Subarray) | [LeetCode](https://leetcode.com/problems/maximum-sum-circular-subarray/) | Medium | 04 Nov 2026 | 05:54 pm |
 | 17 | [Max Occured in n Ranges](./GeeksForGeeks/Medium/Max%20Occured%20in%20n%20Ranges) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/maximum-occured-integer4602/1) | Medium | 04 Nov 2026 | 06:35 pm |
+| 18 | [Mean And Median of Array](./GeeksForGeeks/Easy/Mean%20And%20Median%20of%20Array) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/mean-and-median-1587115620/1) | Easy | 05 Nov 2026 | 02:30 am |

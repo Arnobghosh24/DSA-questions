@@ -1,11 +1,11 @@
 {
-  "totalSolved": 17,
-  "currentStreak": 1,
+  "totalSolved": 18,
+  "currentStreak": 2,
   "maxStreak": 4,
-  "lastSyncDate": "2026-11-04",
-  "todayCount": 3,
+  "lastSyncDate": "2026-11-05",
+  "todayCount": 1,
   "difficultyCounts": {
-    "easy": 7,
+    "easy": 8,
     "medium": 4,
     "hard": 1,
     "basic": 5
@@ -27,7 +27,8 @@
     "GeeksForGeeks_Count_Digits_in_Number": true,
     "GeeksForGeeks_Max_Circular_Subarray_Sum": true,
     "LeetCode_Maximum_Sum_Circular_Subarray": true,
-    "GeeksForGeeks_Max_Occured_in_n_Ranges": true
+    "GeeksForGeeks_Max_Occured_in_n_Ranges": true,
+    "GeeksForGeeks_Mean_And_Median_of_Array": true
   },
   "activityHistory": {
     "2026-08-01": 4,
@@ -37,11 +38,10 @@
     "2026-10-12": 2,
     "2026-10-13": 1,
     "2026-10-21": 1,
-    "2026-11-04": 3
+    "2026-11-04": 3,
+    "2026-11-05": 1
   },
   "todayProblems": [
-    "Max Circular Subarray Sum",
-    "Maximum Sum Circular Subarray",
-    "Max Occured in n Ranges"
+    "Mean And Median of Array"
   ]
 }
