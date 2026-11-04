@@ -1,13 +1,13 @@
 {
-  "totalSolved": 14,
+  "totalSolved": 15,
   "currentStreak": 1,
   "maxStreak": 4,
-  "lastSyncDate": "2026-10-21",
+  "lastSyncDate": "2026-11-04",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 7,
     "medium": 2,
-    "hard": 0,
+    "hard": 1,
     "basic": 5
   },
   "syncedProblems": {
@@ -24,7 +24,8 @@
     "LeetCode_Maximum_Difference_Between_Adjacent_Elements_in_a_Circular_Array": true,
     "GeeksForGeeks_Minimum_adjacent_difference_in_a_circular_array": true,
     "GeeksForGeeks_Start_Coding": true,
-    "GeeksForGeeks_Count_Digits_in_Number": true
+    "GeeksForGeeks_Count_Digits_in_Number": true,
+    "GeeksForGeeks_Max_Circular_Subarray_Sum": true
   },
   "activityHistory": {
     "2026-08-01": 4,
@@ -33,9 +34,10 @@
     "2026-10-11": 1,
     "2026-10-12": 2,
     "2026-10-13": 1,
-    "2026-10-21": 1
+    "2026-10-21": 1,
+    "2026-11-04": 1
   },
   "todayProblems": [
-    "Count Digits in Number"
+    "Max Circular Subarray Sum"
   ]
 }
