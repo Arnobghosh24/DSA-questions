@@ -1,12 +1,12 @@
 {
-  "totalSolved": 19,
+  "totalSolved": 20,
   "currentStreak": 2,
   "maxStreak": 4,
   "lastSyncDate": "2026-11-05",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
     "easy": 8,
-    "medium": 4,
+    "medium": 5,
     "hard": 1,
     "basic": 6
   },
@@ -29,7 +29,8 @@
     "LeetCode_Maximum_Sum_Circular_Subarray": true,
     "GeeksForGeeks_Max_Occured_in_n_Ranges": true,
     "GeeksForGeeks_Mean_And_Median_of_Array": true,
-    "GeeksForGeeks_Reverse_Array_in_Groups": true
+    "GeeksForGeeks_Reverse_Array_in_Groups": true,
+    "GeeksForGeeks_Smallest_Positive_Missing": true
   },
   "activityHistory": {
     "2026-08-01": 4,
@@ -40,10 +41,11 @@
     "2026-10-13": 1,
     "2026-10-21": 1,
     "2026-11-04": 3,
-    "2026-11-05": 2
+    "2026-11-05": 3
   },
   "todayProblems": [
     "Mean And Median of Array",
-    "Reverse Array in Groups"
+    "Reverse Array in Groups",
+    "Smallest Positive Missing"
   ]
 }
