@@ -20,3 +20,4 @@
 | 18 | [Mean And Median of Array](./GeeksForGeeks/Easy/Mean%20And%20Median%20of%20Array) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/mean-and-median-1587115620/1) | Easy | 05 Nov 2026 | 02:30 am |
 | 19 | [Reverse Array in Groups](./GeeksForGeeks/Basic/Reverse%20Array%20in%20Groups) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/reverse-array-in-groups0255/1) | Basic | 05 Nov 2026 | 04:51 pm |
 | 20 | [Smallest Positive Missing](./GeeksForGeeks/Medium/Smallest%20Positive%20Missing) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/smallest-positive-missing-number-1587115621/1) | Medium | 05 Nov 2026 | 05:27 pm |
+| 21 | [Search in Rotated Sorted Array](./GeeksForGeeks/Medium/Search%20in%20Rotated%20Sorted%20Array) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/search-in-a-rotated-array4618/1) | Medium | 05 Nov 2026 | 07:24 pm |
