@@ -1,14 +1,14 @@
 {
-  "totalSolved": 18,
+  "totalSolved": 19,
   "currentStreak": 2,
   "maxStreak": 4,
   "lastSyncDate": "2026-11-05",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 8,
     "medium": 4,
     "hard": 1,
-    "basic": 5
+    "basic": 6
   },
   "syncedProblems": {
     "LeetCode_Binary_Subarrays_With_Sum": true,
@@ -28,7 +28,8 @@
     "GeeksForGeeks_Max_Circular_Subarray_Sum": true,
     "LeetCode_Maximum_Sum_Circular_Subarray": true,
     "GeeksForGeeks_Max_Occured_in_n_Ranges": true,
-    "GeeksForGeeks_Mean_And_Median_of_Array": true
+    "GeeksForGeeks_Mean_And_Median_of_Array": true,
+    "GeeksForGeeks_Reverse_Array_in_Groups": true
   },
   "activityHistory": {
     "2026-08-01": 4,
@@ -39,9 +40,10 @@
     "2026-10-13": 1,
     "2026-10-21": 1,
     "2026-11-04": 3,
-    "2026-11-05": 1
+    "2026-11-05": 2
   },
   "todayProblems": [
-    "Mean And Median of Array"
+    "Mean And Median of Array",
+    "Reverse Array in Groups"
   ]
 }
