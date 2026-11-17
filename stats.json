@@ -1,12 +1,12 @@
 {
-  "totalSolved": 27,
+  "totalSolved": 28,
   "currentStreak": 1,
   "maxStreak": 4,
   "lastSyncDate": "2026-11-17",
-  "todayCount": 5,
+  "todayCount": 6,
   "difficultyCounts": {
     "easy": 10,
-    "medium": 10,
+    "medium": 11,
     "hard": 1,
     "basic": 6
   },
@@ -37,7 +37,8 @@
     "GeeksForGeeks_Triplet_Sum_in_Array": true,
     "GeeksForGeeks_Roof_Top": true,
     "GeeksForGeeks_Count_1's_in_binary_array": true,
-    "GeeksForGeeks_Square_Root": true
+    "GeeksForGeeks_Square_Root": true,
+    "GeeksForGeeks_Count_Occurrences_in_Sorted": true
   },
   "activityHistory": {
     "2026-08-01": 4,
@@ -49,13 +50,14 @@
     "2026-10-21": 1,
     "2026-11-04": 3,
     "2026-11-05": 5,
-    "2026-11-17": 5
+    "2026-11-17": 6
   },
   "todayProblems": [
     "Majority Element",
     "Triplet Sum in Array",
     "Roof Top",
     "Count 1's in binary array",
-    "Square Root"
+    "Square Root",
+    "Count Occurrences in Sorted"
   ]
 }
