@@ -25,3 +25,4 @@
 | 23 | [Triplet Sum in Array](./GeeksForGeeks/Medium/Triplet%20Sum%20in%20Array) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/triplet-sum-in-array-1587115621/1) | Medium | 17 Nov 2026 | 07:48 pm |
 | 24 | [Roof Top](./GeeksForGeeks/Easy/Roof%20Top) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/roof-top-1587115621/1) | Easy | 17 Nov 2026 | 07:49 pm |
 | 25 | [Count 1's in binary array](./GeeksForGeeks/Easy/Count%201's%20in%20binary%20array) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/count-1s-in-binary-array-1587115620/1) | Easy | 17 Nov 2026 | 07:50 pm |
+| 26 | [Square Root](./GeeksForGeeks/Medium/Square%20Root) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/square-root/1) | Medium | 17 Nov 2026 | 07:51 pm |
