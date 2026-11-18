@@ -1,11 +1,11 @@
 {
-  "totalSolved": 29,
-  "currentStreak": 1,
+  "totalSolved": 30,
+  "currentStreak": 2,
   "maxStreak": 4,
-  "lastSyncDate": "2026-11-17",
-  "todayCount": 7,
+  "lastSyncDate": "2026-11-18",
+  "todayCount": 1,
   "difficultyCounts": {
-    "easy": 10,
+    "easy": 11,
     "medium": 12,
     "hard": 1,
     "basic": 6
@@ -39,7 +39,8 @@
     "GeeksForGeeks_Count_1's_in_binary_array": true,
     "GeeksForGeeks_Square_Root": true,
     "GeeksForGeeks_Count_Occurrences_in_Sorted": true,
-    "GeeksForGeeks_Indexes_of_Subarray_Sum": true
+    "GeeksForGeeks_Indexes_of_Subarray_Sum": true,
+    "GeeksForGeeks_Check_for_Subsequence": true
   },
   "activityHistory": {
     "2026-08-01": 4,
@@ -51,15 +52,10 @@
     "2026-10-21": 1,
     "2026-11-04": 3,
     "2026-11-05": 5,
-    "2026-11-17": 7
+    "2026-11-17": 7,
+    "2026-11-18": 1
   },
   "todayProblems": [
-    "Majority Element",
-    "Triplet Sum in Array",
-    "Roof Top",
-    "Count 1's in binary array",
-    "Square Root",
-    "Count Occurrences in Sorted",
-    "Indexes of Subarray Sum"
+    "Check for Subsequence"
   ]
 }

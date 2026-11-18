@@ -28,3 +28,4 @@
 | 26 | [Square Root](./GeeksForGeeks/Medium/Square%20Root) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/square-root/1) | Medium | 17 Nov 2026 | 07:51 pm |
 | 27 | [Count Occurrences in Sorted](./GeeksForGeeks/Medium/Count%20Occurrences%20in%20Sorted) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/number-of-occurrence2259/1) | Medium | 17 Nov 2026 | 07:51 pm |
 | 28 | [Indexes of Subarray Sum](./GeeksForGeeks/Medium/Indexes%20of%20Subarray%20Sum) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/subarray-with-given-sum-1587115621/1) | Medium | 17 Nov 2026 | 10:26 pm |
+| 29 | [Check for Subsequence](./GeeksForGeeks/Easy/Check%20for%20Subsequence) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/given-two-strings-find-if-first-string-is-a-subsequence-of-second/1) | Easy | 18 Nov 2026 | 07:56 pm |
