@@ -31,3 +31,4 @@
 | 29 | [Check for Subsequence](./GeeksForGeeks/Easy/Check%20for%20Subsequence) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/given-two-strings-find-if-first-string-is-a-subsequence-of-second/1) | Easy | 18 Nov 2026 | 07:56 pm |
 | 30 | [Anagram](./GeeksForGeeks/Easy/Anagram) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/anagram-1587115620/1) | Easy | 18 Nov 2026 | 08:24 pm |
 | 31 | [Repeating Character](./GeeksForGeeks/Easy/Repeating%20Character) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/repeating-character-first-appearance-leftmost/1) | Easy | 18 Nov 2026 | 11:51 pm |
+| 32 | [Non Repeating Character](./GeeksForGeeks/Easy/Non%20Repeating%20Character) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/non-repeating-character-1587115620/1) | Easy | 18 Nov 2026 | 11:58 pm |
