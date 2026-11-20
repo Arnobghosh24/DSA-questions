@@ -33,3 +33,4 @@
 | 31 | [Repeating Character](./GeeksForGeeks/Easy/Repeating%20Character) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/repeating-character-first-appearance-leftmost/1) | Easy | 18 Nov 2026 | 11:51 pm |
 | 32 | [Non Repeating Character](./GeeksForGeeks/Easy/Non%20Repeating%20Character) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/non-repeating-character-1587115620/1) | Easy | 18 Nov 2026 | 11:58 pm |
 | 33 | [Reverse Words](./GeeksForGeeks/Easy/Reverse%20Words) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/reverse-words-in-a-given-string5459/1) | Easy | 19 Nov 2026 | 07:04 pm |
+| 34 | [Sum Numbers in String](./GeeksForGeeks/Easy/Sum%20Numbers%20in%20String) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/sum-of-numbers-in-string-1587115621/1) | Easy | 20 Nov 2026 | 08:10 pm |

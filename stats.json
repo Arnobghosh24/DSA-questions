@@ -1,11 +1,11 @@
 {
-  "totalSolved": 34,
-  "currentStreak": 3,
+  "totalSolved": 35,
+  "currentStreak": 4,
   "maxStreak": 4,
-  "lastSyncDate": "2026-11-19",
+  "lastSyncDate": "2026-11-20",
   "todayCount": 1,
   "difficultyCounts": {
-    "easy": 15,
+    "easy": 16,
     "medium": 12,
     "hard": 1,
     "basic": 6
@@ -44,7 +44,8 @@
     "GeeksForGeeks_Anagram": true,
     "GeeksForGeeks_Repeating_Character": true,
     "GeeksForGeeks_Non_Repeating_Character": true,
-    "GeeksForGeeks_Reverse_Words": true
+    "GeeksForGeeks_Reverse_Words": true,
+    "GeeksForGeeks_Sum_Numbers_in_String": true
   },
   "activityHistory": {
     "2026-08-01": 4,
@@ -58,9 +59,10 @@
     "2026-11-05": 5,
     "2026-11-17": 7,
     "2026-11-18": 4,
-    "2026-11-19": 1
+    "2026-11-19": 1,
+    "2026-11-20": 1
   },
   "todayProblems": [
-    "Reverse Words"
+    "Sum Numbers in String"
   ]
 }
